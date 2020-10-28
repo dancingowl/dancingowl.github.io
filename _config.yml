@@ -17,12 +17,12 @@ markdown:       kramdown
 # About
 author:
   name:         Jinse Kim
-  url:          http://dancingowl.github.io
+  url:          http://jinsekim.com
   email:        justin1105kr@gmail.com  
   github:       dancingowl
   twitter:      Nan
 
 # Custom vars
-version:        0.1.1
+version:        0.0.1
 github:
-  repo:         https://github.com/dancingowl/http://dancingowl.github.io
+  repo:         https://github.com/dancingowl/dancingowl.github.io
