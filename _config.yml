@@ -16,13 +16,13 @@ markdown:       kramdown
 
 # About
 author:
-  name:         Jihye Leee
-  url:          http://jihyeleee.com/
+  name:         Jinse Kim
+  url:          http://dancingowl.github.io
   email:        iam.leejihye@gmail.com  
-  github:       iamleejihye
-  twitter:      playpingpong
+  github:       dancingowl
+  twitter:      Nan
 
 # Custom vars
-version:        3.4.1
+version:        0.1.1
 github:
-  repo:         https://github.com/iamleejihye/iamleejihye.github.io
+  repo:         https://github.com/dancingowl/http://dancingowl.github.io
