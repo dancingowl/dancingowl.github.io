@@ -8,7 +8,7 @@ description: Jinse, who is a owl dancing in the city of Seoul, South Korea. | 'ê
 <div class="intro-animation">
 <section class="explanation">
     <h1 class="intro">
-    I'm Jihye Leee,
+    I'm Jinse Kim,
     </h1>
     <h1 class="intro">Dancing Owl 
         <!-- <div class="intro-link">
