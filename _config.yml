@@ -2,9 +2,9 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Jihye Leee
+title:          Jinse Kim
 baseurl:        ""
-url:            "http://www.jihyeleee.com"
+url:            "https://www.instagram.com/zzin_blue/"
 
 # Assets
 sass:
@@ -17,7 +17,7 @@ markdown:       kramdown
 # About
 author:
   name:         Jinse Kim
-  url:          http://jinsekim.com
+  url:          "https://www.instagram.com/zzin_blue/"
   email:        justin1105kr@gmail.com  
   github:       dancingowl
   twitter:      Nan
